@@ -1,0 +1,4 @@
+/.idea
+/testreport/*.html
+/testdata/xlsx/*.xlsx
+/testreport/*.zip
